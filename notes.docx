@@ -1,0 +1,19 @@
+- Fetch() is a function provided by the browser by using which you can fecth the data from backened eg (localhost:3000/places)
+- promise is a standard js object which promises that there will be eventually a data in the future but its not right now
+- await only works with async which is not allowed for component function
+? How caching and cookies are handled in ReST
+
+- throwing an error directly may crash the app so to avoid this use try catch block 
+- try catch block can be used with async await
+
+
+Deployment Steps
+
+-Test Code
+-Optimize Code
+-Build app
+-Upload app
+-Configure Server
+
+
+Lazy Loading- Load only we need that pages
